@@ -3,4 +3,4 @@
 Всего за время обучения было выполнено 14 проектов по разным темам. Загрузила самые интересные. 
 Статус проектов: Завершены.
 
-[Проект1]([https://github.com/Polinanabokina/yandex_projects-/tree/main/business_indicators]
+[Проект1](https://github.com/Polinanabokina/yandex_projects-/tree/main/business_indicators)
